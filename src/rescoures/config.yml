@@ -1,0 +1,3 @@
+#玩家替换的指令
+player_replace:
+  - "hub|wtransfer mbnet#1"
