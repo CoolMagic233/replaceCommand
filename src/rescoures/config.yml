@@ -1,3 +1,8 @@
+#Work mode , such as replace , world
+mode: "replace"
 #玩家替换的指令
 player_replace:
   - "hub|wtransfer mbnet#1"
+world:
+   cmd: ["hub","lobby"]
+   bpractise: "bp leave"
